@@ -36,7 +36,7 @@
 
 ---
 
-## Project
+## Highlight Project
 
 1. [Twitch Game Item Recommendation Platform](https://github.com/zilinli0130/my_twitch)
 2. [Autonomous Package Delivery Application](https://github.com/zilinli0130/dispatch_management_app_frontend)
